@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #607D8B;
+}
+div{
+    background-color: red;
+    height: 220px;
+    text-align: center;
+}
+#encabezado{
+    background-color: #FF9800;
+    height: 200px;
+    text-align: center;
+}
+.pieDePagina{
+    background-color: #FF5722;
+    height: 100px;
+    width: 100%;
+    bottom: 0;
+    color: white;
+    position: fixed;
+    left: 0px;
+}
+p{
+    font-family: Georgia,Times;
+    font-size: 16px;
+    color: white;
+}
